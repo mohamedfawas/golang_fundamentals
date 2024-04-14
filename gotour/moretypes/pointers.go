@@ -12,5 +12,7 @@ func main() {
 
 	c := &i                                       // point to i
 	fmt.Println("read i throught pointer : ", *c) // read i through the pointer
+	i = 64
+	fmt.Println("read i throught pointer : ", *c)
 
 }
