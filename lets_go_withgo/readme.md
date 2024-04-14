@@ -1,0 +1,1 @@
+This contains codes I prepared while following the tutorial series "let's go with golang"
